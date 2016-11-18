@@ -55,7 +55,6 @@ class KnightPathFinder
     path.unshift(root.value)
     path
   end
-
 end
 
 kpf = KnightPathFinder.new
